@@ -6,4 +6,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 
---platform linux/amd64 eclipse-temurin:17-jdk-alpine
+#--platform linux/amd64 eclipse-temurin:17-jdk-alpine
+--platform linux/arm64 eclipse-temurin:17-jdk-alpine
