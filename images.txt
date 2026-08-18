@@ -7,15 +7,5 @@
 
 
 #--platform linux/amd64 eclipse-temurin:17-jdk-alpine
-langgenius/dify-api:1.16.1
-langgenius/dify-web:1.16.1
-langgenius/dify-plugin-daemon:0.6.3-local
-langgenius/dify-sandbox:0.2.15
-langgenius/dify-agent-backend:1.16.1
-langgenius/dify-agent-local-sandbox:1.16.1
-semitechnologies/weaviate:1.27.0
-postgres:15-alpine
-redis:6-alpine
-ubuntu/squid:latest
-nginx:latest
-busybox:latest
+nacos/nacos-server:v3.2.3
+nacos/nacos-server:v2.5.3
