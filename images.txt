@@ -8,5 +8,7 @@
 
 #--platform linux/amd64 eclipse-temurin:17-jdk-alpine
 
-langgenius/dify-plugin-daemon:0.5.3-local
+#langgenius/dify-plugin-daemon:0.5.3-local
+
+python:3.12-slim
 
